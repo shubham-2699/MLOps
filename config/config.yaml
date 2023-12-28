@@ -3,6 +3,6 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://github.com/shubham-2699/Demo/raw/main/olist_customers_dataset.csv.zip
+  source_URL: https://github.com/shubham-2699/Demo/raw/main/apple_stock.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
